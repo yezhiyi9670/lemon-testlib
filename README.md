@@ -6,6 +6,8 @@ Lemon上的Codeforces风格spj库
 
 （这是一个仿造[testlib](https://github.com/MikeMirzayanov/testlib/)的Special Judge评测库，目前是实验版本，并且只支持checker）
 
+如果Special Judge没有必要读取选手的源代码，那么[LemonLime](https://github.com/iotang/Project_LemonLime)用户可以使用[这个头文件](https://github.com/iotang/Project_LemonLime/blob/master/testlib_for_lemons.h)（这个头文件有交互题、生成器等更多功能）。
+
 ## 安装说明
 
 不要问我关于安装的具体事情，因为我并不了解你用的IDE（除非是Dev C++）。我可以告诉你，这个头文件的使用方法是这样的：
