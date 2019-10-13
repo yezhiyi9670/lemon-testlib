@@ -4,9 +4,9 @@ Lemon上的Codeforces风格spj库
 
 还在担心将洛谷或Codeforces的Special Judge转移到Lemon要花许多功夫吗？还在担心由于Lemon的校验器不严谨而造成校验器出错吗？是时候试下lemon-testlib了。
 
-（这是一个仿造[testlib](https://github.com/MikeMirzayanov/testlib/)的Special Judge评测库，目前是实验版本，并且只支持checker）
+（这是一个仿造[testlib](https://github.com/MikeMirzayanov/testlib/)的Special Judge评测库，目前是实验版本，功能不完整，并且只支持checker）
 
-如果Special Judge没有必要读取选手的源代码，那么[LemonLime](https://github.com/iotang/Project_LemonLime)用户可以使用[这个头文件](https://github.com/iotang/Project_LemonLime/blob/master/testlib_for_lemons.h)（这个头文件有交互题、生成器等更多功能）。
+如果Special Judge没有必要读取选手的源代码，那么Lemon或[LemonLime](https://github.com/iotang/Project_LemonLime)用户应该使用[这个头文件](https://github.com/iotang/Project_LemonLime/blob/master/testlib_for_lemons.h)（这个头文件还有数据生成器等更多功能，并且是通过官方testlib魔改而成的，其功能较为完整）。
 
 ## 安装说明
 
